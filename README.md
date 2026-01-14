@@ -2,6 +2,22 @@
 
 A simple Candy Crush-like game built with Python and Pygame featuring smooth animations.
 
+## Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/Gretschman/candy-like.git
+cd candy-like
+
+# Set up virtual environment
+python3 -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+# Install dependencies and run
+pip install -r requirements.txt
+python candy_crush.py
+```
+
 ## Features
 
 - 8x8 grid of colorful candies
